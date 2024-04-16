@@ -1,4 +1,4 @@
-# apnacollege-demo
+c# apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Andaz Kumar
+Author - Andaz Kumar (from Bihar)
